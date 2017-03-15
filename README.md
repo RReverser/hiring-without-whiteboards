@@ -32,7 +32,7 @@ Please open a PR to be added.
 - [Backbase](http://careers.backbase.com/) | Amsterdam, Cardiff, London, Atlanta | Takehome project, interviews
 - [Badoo](https://team.badoo.com/jobs/) | London, UK | Take-home project, then a discussion onsite round.
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
-- [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
+- [BAE Systems Applied Intellignce](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
 - [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion 
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
@@ -45,6 +45,7 @@ Please open a PR to be added.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
 - [City of Philadelphia's Office of Open Data & Digital Transformation](https://beta.phila.gov/departments/office-of-open-data-and-digital-transformation/jobs/) | Philadelphia, PA | Take-home project
+- [Cloudflare](https://www.cloudflare.com/) | London, UK; several offices in US | Multiple interviews, discussion of problems relevant to the expected area, writing a sample project on-site or at home
 - [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences. 
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
@@ -84,7 +85,6 @@ Please open a PR to be added.
 - [HoxHunt](https://jobs.hoxhunt.com/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [ImmobilienScout24](https://boards.greenhouse.io/scout24) | Berlin, Germany | Take-home project, discussion on-site
 - [Impraise](http://jobs.impraise.com) | Amsterdam, The Netherlands | Take home test, real world pair programming
-- [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
@@ -131,7 +131,6 @@ Please open a PR to be added.
 - [ReSpark](https://www.respark.co.uk) | London, UK | Phone conversation followed by on-site interview w/ task relevant to daily role.
 
 ## S - U
-- [Sahaj Software Solutions](https://www.sahajsoft.com/) | Bangalore & Chennai (India), San Jose (USA) | Take home code + Pairing + Discussion
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Slack](https://slack.com/jobs) | San Francisco, CA
